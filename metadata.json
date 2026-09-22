@@ -1,0 +1,6 @@
+{
+  "name": "App-OS",
+  "description": "Gestão completa de Ordens de Serviço (OS), Clientes, Equipamentos e Agenda para técnicos de campo, com busca global e lixeira inteligente.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
